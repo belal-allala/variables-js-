@@ -1,0 +1,10 @@
+var a = 10;
+var b = 5;
+var somme = a + b;
+console.log("La somme de a et b est : " + somme);
+var difference = a - b;
+console.log("La différence entre a et b est : " + difference);
+var produit = a * b;
+console.log("Le produit de a et b est : " + produit);
+var quotient = a / b;
+console.log("Le quotient de a et b est : " + quotient);
